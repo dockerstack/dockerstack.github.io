@@ -1,4 +1,4 @@
 dockerstack.github.io
 =====================
 
-Documentation about the application 
+<img src="http://dockerstack.github.io/public/img/theme2.png">
