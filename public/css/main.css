@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(177, 215, 252);
+}
+
+.footer{
+    background: url('../../public/img/water.png');
+    padding-top:25px;
+    text-align:center;
+    margin:0 auto;
+
+}
+
+#heading{
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-top: -6%;
+    margin-left: 87%;
+}
+
+#title {
+    font-size: 50px;
+}
