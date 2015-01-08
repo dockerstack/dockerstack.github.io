@@ -143,7 +143,11 @@ i {
 }
 
 #headerwrap h1 {
+<<<<<<< HEAD
 	margin-top: -4%;
+=======
+	margin-top: 60px;
+>>>>>>> ecd6b8196fd4a146f0b2b40c45eb8550c88f24e6
 	margin-bottom: 15px;
 	color: white;
 	font-size: 45px;

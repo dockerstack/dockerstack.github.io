@@ -8,7 +8,11 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/img/favicon.png">
     
+<<<<<<< HEAD
     <title>Dockerstack - Hybrid Docker Infrastrucutre as a Service</title>
+=======
+    <title>FLATTY - Free Bootstrap 3 Landing Page</title>
+>>>>>>> ecd6b8196fd4a146f0b2b40c45eb8550c88f24e6
 
     <!-- Bootstrap core CSS -->
     <link href="public/css/bootstrap.css" rel="stylesheet">
@@ -18,7 +22,10 @@
 
     <!-- Fonts from Google Fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,900' rel='stylesheet' type='text/css'>
+<<<<<<< HEAD
 	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+=======
+>>>>>>> ecd6b8196fd4a146f0b2b40c45eb8550c88f24e6
     
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -38,11 +45,19 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
+<<<<<<< HEAD
           <a class="navbar-brand" href="#"><b>DockerStack<!-- <img class="img-responsive" src="public/img/dockerstack.ico" alt="" style="margin-left: 20%"> --></b></a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#team">Team</i></a></li>
+=======
+          <a class="navbar-brand" href="#"><b><img class="img-responsive" src="public/img/dockerstack.ico" alt="" style="margin-left: 20%">Dockerstack</b></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Already a member?</a></li>
+>>>>>>> ecd6b8196fd4a146f0b2b40c45eb8550c88f24e6
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -51,6 +66,7 @@
 	<div id="headerwrap">
 		<div class="container">
 			<div class="row">
+<<<<<<< HEAD
 				<div class="span9">
 					<h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTransform Vm based Instances to Container based &nbsp&nbsp&nbspInstances on Docker Over Hybrid Cloud Infrastrucutre &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspfrom Single Dashboard</h1>
 				</br>
@@ -70,6 +86,22 @@ margin-top: -5%;">
 					
 					</div><!-- /col-lg-6 -->
 				
+=======
+				<div class="col-lg-6">
+					<h1>Make your landing page<br/>
+					look really good.</h1>
+					<!-- <form class="form-inline" role="form" method="POST" action="http://forms.brace.io/admin@dockerstack.org">
+					  <div class="form-group">
+                         
+                        <input name="_replyto" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                      </div>
+					  <button type="submit" class="btn btn-warning btn-lg">Invite Me!</button>
+					</form> -->					
+				</div><!-- /col-lg-6 -->
+				<div class="col-lg-6">
+					<img class="img-responsive" src="public/img/ipad-hand.png" alt="" >
+				</div><!-- /col-lg-6 -->
+>>>>>>> ecd6b8196fd4a146f0b2b40c45eb8550c88f24e6
 				
 			</div><!-- /row -->
 		</div><!-- /container -->
@@ -106,9 +138,14 @@ margin-top: -5%;">
 			</div><!--/col-lg-4 -->
 		</div><!-- /row -->
 	</div><!-- /container -->
+<<<<<<< HEAD
 	<hr>
 	
 	<!-- <div class="container">
+=======
+	
+	<div class="container">
+>>>>>>> ecd6b8196fd4a146f0b2b40c45eb8550c88f24e6
 		<hr>
 		<div class="row centered">
 			<div class="col-lg-6 col-lg-offset-3">
@@ -120,9 +157,15 @@ margin-top: -5%;">
 				</form>					
 			</div>
 			<div class="col-lg-3"></div>
+<<<<<<< HEAD
 		</div> /row 
 		<hr>
 	</div>/container --> 
+=======
+		</div><!-- /row -->
+		<hr>
+	</div><!-- /container -->
+>>>>>>> ecd6b8196fd4a146f0b2b40c45eb8550c88f24e6
 	
 	<div class="container">
 		<div class="row mt centered">
@@ -132,7 +175,11 @@ margin-top: -5%;">
 			</div>
 		</div><!-- /row -->
 	
+<<<<<<< HEAD
 		<!-- CAROUSEL -->
+=======
+		<! -- CAROUSEL -->
+>>>>>>> ecd6b8196fd4a146f0b2b40c45eb8550c88f24e6
 		<div class="row mt centered">
 			<div class="col-lg-6 col-lg-offset-3">
 				<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -158,6 +205,7 @@ margin-top: -5%;">
 				</div>			
 			</div><!-- /col-lg-8 -->
 		</div><!-- /row -->
+<<<<<<< HEAD
 	</div><!--/container -->
 	
 <!--    <div class="container">         <hr>         <div class="row
@@ -179,6 +227,33 @@ that a reader will be distracted by the readable content of a page when
 looking at its layout.</h3>     
         </div>  
                </div><!-- /row -->
+=======
+	</div><! --/container -->
+	
+	<div class="container">
+		<hr>
+		<div class="row centered">
+			<div class="col-lg-6 col-lg-offset-3">
+				<form class="form-inline" role="form">
+				  <div class="form-group">
+				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your email address">
+				  </div>
+				  <button type="submit" class="btn btn-warning btn-lg">Invite Me!</button>
+				</form>					
+			</div>
+			<div class="col-lg-3"></div>
+		</div><!-- /row -->
+		<hr>
+	</div><!-- /container -->
+
+	<div class="container">
+		<div class="row mt centered">
+			<div class="col-lg-6 col-lg-offset-3">
+				<h1>Our Awesome Team.<br/>Design Lovers.</h1>
+				<h3>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</h3>
+			</div>
+		</div><!-- /row -->
+>>>>>>> ecd6b8196fd4a146f0b2b40c45eb8550c88f24e6
 		
 		<div class="row mt centered">
 			<div class="col-lg-4">
@@ -208,6 +283,7 @@ looking at its layout.</h3>
 		<hr>
 		<div class="row centered">
 			<div class="col-lg-6 col-lg-offset-3">
+<<<<<<< HEAD
 				<form class="form-inline" role="form" method="POST" action="http://forms.brace.io/admin@dockerstack.org">
 					  <div class="form-group">
                          
@@ -215,6 +291,14 @@ looking at its layout.</h3>
                       </div>
 					  <button type="submit" class="btn btn-warning btn-lg" >Invite</button>
 					</form>					
+=======
+				<form class="form-inline" role="form">
+				  <div class="form-group">
+				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your email address">
+				  </div>
+				  <button type="submit" class="btn btn-warning btn-lg">Invite Me!</button>
+				</form>					
+>>>>>>> ecd6b8196fd4a146f0b2b40c45eb8550c88f24e6
 			</div>
 			<div class="col-lg-3"></div>
 		</div><!-- /row -->
