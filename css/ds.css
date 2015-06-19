@@ -1,0 +1,163 @@
+body, html {
+	min-height: 100%;
+	width: 100%;
+	font-family: "Source Sans Pro"
+}
+
+.b-p-t-lg{
+	padding-top: 100px;
+}
+
+.container-sm{
+	max-width: 500px;
+} 
+
+.mastHead{
+	min-height: 100%;
+	width: 100%;	
+	min-height: 500px;
+}
+
+.mast-content{
+	margin: 20% auto;
+}
+
+.white{
+	color: #fff !important;
+}
+
+.back1{
+	  background-image: url('../img/bg1.png');
+	  background-repeat: no-repeat;
+	  background-size: contain; 
+	  background-position: center;
+	  background-color: #f9f9f9;
+}
+
+.features{
+	background-image: url('../img/feat-bg.png');
+	background-size: cover;
+}
+
+
+.bg-blue{
+	background-color: rgba(0, 168, 255, 1);
+}
+
+.backMonitor{
+	background-image: url('../img/pitstop.jpg');
+	background-size: cover;
+	min-height: 500px;
+}
+
+.card{
+	height: 375px;
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.card-head{
+	height: 125px;
+	margin-bottom: 15px;
+}
+
+
+.card-image{
+	margin-top: 15px;
+	text-align: center;
+}
+.card-image>img{
+	height: 125px;
+	width: auto;
+
+
+}
+
+.shadow{
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.full-img{
+	width: 100%;
+}
+
+.btn-ds {
+  padding: 12px 36px;
+  font-size: 18px;
+  border-radius: 0;
+  border-width: 2px;
+  color: rgba(0, 148, 253, 1);
+  background-color: rgba(255, 255, 255, 0);
+  border-color: rgba(0, 148, 253, 1);
+}
+
+.btn-ds.focus, .btn-ds:focus, .btn-ds:hover {
+  color: rgba(0, 148, 253, 1);
+  text-decoration: none;
+  border-color: rgba(0, 148, 255, 1);
+}
+
+.m-t{
+	margin-top: 15px;
+}
+
+.full-img{
+	width: 100%;
+}
+
+
+.footer{
+	
+	/*border-top: 1px solid #ddd;*/
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
+
+.footer-links>li{
+	float: left;
+	
+	margin-right: 30px;
+}
+
+
+.wrapper-lg{
+	padding: 30px;
+}
+
+.wrapper{
+	padding: 15px;	
+}
+
+.navbar-ds {
+  background-color: rgba(0, 168, 255, 1);
+  border-color: rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.14);
+}
+
+.navbar-brand{
+	color: #fff;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 22px;
+}
+
+.navbar-nav>li>a {
+	color: #fff;
+}
+
+
+.blue{
+	color: rgba(0, 168, 255, 1);
+}
+
+.connect-img{
+	max-width: 720px;
+	margin: 10px auto;
+}
+
+.input-lg{
+	border-radius: 0;
+}
