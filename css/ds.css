@@ -1,5 +1,6 @@
 body, html {
 	min-height: 100%;
+	height: 100%;
 	width: 100%;
 	font-family: "Source Sans Pro"
 }
@@ -15,6 +16,7 @@ body, html {
 .mastHead{
 	min-height: 100%;
 	width: 100%;	
+	height: 100%;
 	min-height: 500px;
 }
 
@@ -29,8 +31,8 @@ body, html {
 .back1{
 	  background-image: url('../img/bg1.png');
 	  background-repeat: no-repeat;
-	  background-size: contain; 
-	  background-position: center;
+	  background-size: cover; 
+	  background-position: bottom;
 	  background-color: #f9f9f9;
 }
 
@@ -141,7 +143,7 @@ body, html {
 .navbar-brand{
 	color: #fff;
 	font-family: 'Kaushan Script', cursive;
-	font-size: 22px;
+	font-size:w 22px;
 }
 
 .navbar-nav>li>a {
