@@ -16,8 +16,9 @@ body, html {
 .mastHead{
 	min-height: 100%;
 	width: 100%;	
-	height: 100%;
-	min-height: 500px;
+	
+	overflow: hidden;
+
 }
 
 .mast-content{
@@ -35,6 +36,7 @@ body, html {
 	  background-position: bottom;
 	  background-color: #f9f9f9;
 }
+
 
 .features{
 	background-image: url('../img/feat-bg.png');
@@ -106,6 +108,10 @@ body, html {
 	margin-top: 15px;
 }
 
+.m-t-lg{
+	margin-top: 30px;
+}
+
 .full-img{
 	width: 100%;
 }
@@ -163,3 +169,64 @@ body, html {
 .input-lg{
 	border-radius: 0;
 }
+
+
+
+.wave-holder{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 200px;
+	overflow: hidden;
+}
+
+
+.wave1{
+	position: absolute;
+    z-index: 3;
+    bottom: -100px;
+    width: 120%;
+    height: 200px;
+    left: -70px;
+    background-image: url('../img/wave1.png');
+    overflow: hidden;
+    background-size: cover;	
+}
+
+.wave2{
+	position: absolute;
+	z-index: 2;
+	bottom: -100px;
+	width: 120%;
+	left: -120px;
+	height: 200px;
+	background-image: url('../img/wave2.png');
+	overflow: hidden;
+	background-size: cover;	
+}
+
+.wave3{
+	position: absolute;
+	z-index: 1;
+	bottom: -100px;
+	width: 120%;
+	left: -35px;
+	height: 200px;
+	background-image: url('../img/wave3.png');
+	overflow: hidden;
+	background-size: cover;	
+}
+
+.whale{
+	z-index: 3;
+	position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    bottom: 20px;
+    width: 400px;
+    min-height: 200px;
+    max-width: 100%;
+    background-image: url('../img/whale.png');
+}
+
